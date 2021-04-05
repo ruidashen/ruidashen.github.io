@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d1c1473c.chunk.css",
+    "main.js": "/static/js/main.6b3ff4ee.chunk.js",
+    "main.js.map": "/static/js/main.6b3ff4ee.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e387f811.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e387f811.js.map",
+    "static/css/2.bf35f0af.chunk.css": "/static/css/2.bf35f0af.chunk.css",
+    "static/js/2.ca49a150.chunk.js": "/static/js/2.ca49a150.chunk.js",
+    "static/js/2.ca49a150.chunk.js.map": "/static/js/2.ca49a150.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.49d493ae6bad22f84ff778ab38360646.js": "/precache-manifest.49d493ae6bad22f84ff778ab38360646.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.bf35f0af.chunk.css.map": "/static/css/2.bf35f0af.chunk.css.map",
+    "static/css/main.d1c1473c.chunk.css.map": "/static/css/main.d1c1473c.chunk.css.map",
+    "static/js/2.ca49a150.chunk.js.LICENSE.txt": "/static/js/2.ca49a150.chunk.js.LICENSE.txt",
+    "static/media/CSS Fundamentals.md": "/static/media/CSS Fundamentals.58bd9371.md",
+    "static/media/Event Delegation.md": "/static/media/Event Delegation.efbfeb34.md",
+    "static/media/GetVsPost.md": "/static/media/GetVsPost.6cb506cb.md",
+    "static/media/HTML Fundamentals.md": "/static/media/HTML Fundamentals.36fe6598.md",
+    "static/media/JS Fundamentals.md": "/static/media/JS Fundamentals.cd72086f.md",
+    "static/media/VDOM.md": "/static/media/VDOM.63e39416.md",
+    "static/media/banner.jpg": "/static/media/banner.e08d045c.jpg",
+    "static/media/chat-app.png": "/static/media/chat-app.b56b104a.png",
+    "static/media/cookie-vs-session.md": "/static/media/cookie-vs-session.599896b7.md",
+    "static/media/designer.png": "/static/media/designer.d1eaf0f7.png",
+    "static/media/domdiff.md": "/static/media/domdiff.c53b7c37.md",
+    "static/media/functionCurrying.md": "/static/media/functionCurrying.65fd999c.md",
+    "static/media/react-backend.png": "/static/media/react-backend.b2e3d817.png",
+    "static/media/rui.png": "/static/media/rui.afa1826d.png",
+    "static/media/vue.md": "/static/media/vue.76dd5e3a.md"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e387f811.js",
+    "static/css/2.bf35f0af.chunk.css",
+    "static/js/2.ca49a150.chunk.js",
+    "static/css/main.d1c1473c.chunk.css",
+    "static/js/main.6b3ff4ee.chunk.js"
+  ]
+}
