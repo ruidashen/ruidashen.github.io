@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8470f8ff.chunk.css",
+    "main.js": "/static/js/main.853f8e67.chunk.js",
+    "main.js.map": "/static/js/main.853f8e67.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e387f811.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e387f811.js.map",
+    "static/css/2.bf35f0af.chunk.css": "/static/css/2.bf35f0af.chunk.css",
+    "static/js/2.5757f2f0.chunk.js": "/static/js/2.5757f2f0.chunk.js",
+    "static/js/2.5757f2f0.chunk.js.map": "/static/js/2.5757f2f0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.cbb1ffc04c8961463096a76e5b4ff3e2.js": "/precache-manifest.cbb1ffc04c8961463096a76e5b4ff3e2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.bf35f0af.chunk.css.map": "/static/css/2.bf35f0af.chunk.css.map",
+    "static/css/main.8470f8ff.chunk.css.map": "/static/css/main.8470f8ff.chunk.css.map",
+    "static/js/2.5757f2f0.chunk.js.LICENSE.txt": "/static/js/2.5757f2f0.chunk.js.LICENSE.txt",
+    "static/media/CSS Fundamentals.md": "/static/media/CSS Fundamentals.58bd9371.md",
+    "static/media/DOM Diff Explained.md": "/static/media/DOM Diff Explained.c53b7c37.md",
+    "static/media/Event Delegation.md": "/static/media/Event Delegation.efbfeb34.md",
+    "static/media/Function Currying Implementation.md": "/static/media/Function Currying Implementation.65fd999c.md",
+    "static/media/Get Vs Post.md": "/static/media/Get Vs Post.6cb506cb.md",
+    "static/media/HTML Fundamentals.md": "/static/media/HTML Fundamentals.36fe6598.md",
+    "static/media/JS Fundamentals.md": "/static/media/JS Fundamentals.cd72086f.md",
+    "static/media/VDOM.md": "/static/media/VDOM.63e39416.md",
+    "static/media/Vue notes.md": "/static/media/Vue notes.76dd5e3a.md",
+    "static/media/banner.jpg": "/static/media/banner.e08d045c.jpg",
+    "static/media/chat-app.png": "/static/media/chat-app.b56b104a.png",
+    "static/media/cookie-vs-session.md": "/static/media/cookie-vs-session.599896b7.md",
+    "static/media/rui.png": "/static/media/rui.afa1826d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e387f811.js",
+    "static/css/2.bf35f0af.chunk.css",
+    "static/js/2.5757f2f0.chunk.js",
+    "static/css/main.8470f8ff.chunk.css",
+    "static/js/main.853f8e67.chunk.js"
+  ]
+}
